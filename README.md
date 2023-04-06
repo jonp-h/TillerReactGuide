@@ -10,6 +10,7 @@ klon repo ned til klient
 (feks gjennom vscode sin klon-repo-funksjonalitet)
 
 npx create-react-app nameofapp
+(https://create-react-app.dev/docs/getting-started/)
 
 cd nameofapp
 
@@ -23,7 +24,7 @@ installer prettier
 kan installere snippets
 (ES7 snippets for react for eksempel)
 
-# sette opp github:
+# sette opp github med agile-metodikk:
 
 https://youtube.com/playlist?list=PL-DdwrWUDZnP-VXXLxP2eg7QcTsMav_6s
 
@@ -41,4 +42,5 @@ legg til i npm package.json:
 }
 
 npm run release
-(dette genererer changlog filen)
+(dette genererer changlog filen, men pusher ikke til github)
+
