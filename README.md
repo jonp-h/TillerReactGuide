@@ -20,6 +20,7 @@ npm start
 
 installer prettier
 (pass på at den er aktivert)
+Dette ved å redigere settings.json med å legge til " "editor.defaultFormatter": "esbenp.prettier-vscode" "
 
 kan installere snippets
 (ES7 snippets for react for eksempel)
